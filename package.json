@@ -1,0 +1,15 @@
+{
+  "name": "lighthousetask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "^9.6.8",
+    "puppeteer": "^19.7.2"
+  }
+}
