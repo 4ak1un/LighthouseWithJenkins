@@ -4,12 +4,12 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node LighthouseTask.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "lighthouse": "^9.6.8",
-    "puppeteer": "^19.7.2"
+    "puppeteer": "^19.7.5"
   }
 }
